@@ -1,4 +1,6 @@
 # Proxy-and-the-Firewall
+![image](https://github.com/user-attachments/assets/37dba5d5-fccd-430f-b8fa-e8bc334cf486)
+
 Exploring the Roles of Proxies and Firewalls.
 
 Understanding proxies and firewalls is crucial for maintaining security and privacy during online activities. Let’s delve into what these tools are and why they are important.
